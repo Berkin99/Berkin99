@@ -1,6 +1,6 @@
 # Berkin YILMAZ
 
-I am AI MSc. Student in Gebze Technical University, and Embedded development team member of GTU Yeniay:
+I am AI MSc. Student in Gebze Technical University and Embedded development team member of GTU Yeniay:
 
 ## Technologies
 
