@@ -29,14 +29,3 @@ A platform-independent C API for the TE Connectivity MS5611 sensor. Supports SPI
 
 ### [MPU6500](https://github.com/Berkin99/MPU6500)
 Platform-independent C driver for the TDK InvenSense MPU6500 6-axis accelerometer and gyroscope sensor. Supports SPI and I2C communication interfaces, calibration, and provides access to raw and processed data.
-
-## 📈 GitHub Stats
-
-![Berkin's GitHub stats](https://github-readme-stats.vercel.app/api?username=Berkin99&show_icons=true&theme=radical)
-
-## 🌱 What I'm currently learning
-
-- Exploring the world of DevOps with Docker and Kubernetes
-- Improving my knowledge in Machine Learning and AI
-  
-Thank you for visiting my profile! Feel free to reach out if you want to collaborate on any projects or just want to chat about tech.
