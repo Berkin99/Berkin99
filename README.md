@@ -1,13 +1,13 @@
-# Hi there, I'm Berkin
+# Berkin YILMAZ
 
 I am AI MSc. Student in Gebze Technical University, and Embedded development team member of GTU Yeniay:
 
-## 🔧 Technologies
+## Technologies
 
 - Programming Languages: C, C++, Python
 - Work Area: Real Time Embedded Systems & AI
 
-## 🚀 Projects
+## Projects
 
 ### [EmbedLink](https://github.com/Berkin99/EmbedLink)
 EmbedLink facilitates serial communication on STM32 in a manner compatible with RTOS. It processes raw data from built-in sensor and GPS libraries, generating kinematic data such as position and speed in the background.
